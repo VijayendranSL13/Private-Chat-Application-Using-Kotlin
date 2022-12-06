@@ -1,5 +1,6 @@
 # Private-Chat-Application-Using-Kotlin
 ABSTRACT
+
 Almost all brands these days need an app with chat functionality so that users can
 interact with each other or connect to their customer support easily. In this project,
 we will create a chat app for Android devices and this is created mainly for privacy
