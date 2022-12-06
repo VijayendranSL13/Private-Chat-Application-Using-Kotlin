@@ -17,7 +17,10 @@ id for both device to connect with the same server so that intruders can’t abl
 their messages. This is what I’m going to do for Bob and Alice.
 
 Platform-IDE : Android Studio
+
 Programming Language : Kotlin
+
 Project Developer : S.L.Vijayendran
+
 Guided By : Dr.V.Raj Kumar - Assist. Professor
 (Krishnasamy College of Engineering and Technology – Anna University)
